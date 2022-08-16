@@ -1,1 +1,1 @@
-# sfmc-node-event-subscribe
+# sfmc-nodejs-event-subscribe
